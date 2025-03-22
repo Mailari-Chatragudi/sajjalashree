@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    width: auto;
+    height: 50px;
+}
+#nav-bg{
+    background-color: #eff2f31a;
+}
+
+#text-nav {
+    color: #08f23a;
+    font-weight: bold;
+    margin-right: 30px;
+    padding: 5px;
+    margin-bottom: 3px;
+}
+.enquery-button:hover{
+    background-color: #FFD700;
+}
+
+.background-container {
+    background-image: url('https://res.cloudinary.com/dalm1fvto/image/upload/v1742275403/WhatsApp_Image_2025-03-18_at_10.46.01_2d0a6234_nn54co.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-heading {
+    color: #08f23a;
+    font-family: 'Playfair display';
+    font-weight: bold;
+}
+
+.main-para {
+    color: #be3dfd;
+    font-weight: bold;
+}
+
+.about-heading {
+    color: #08f23a;
+    font-family: 'Playfair display';
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.about-para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.about-name {
+    color: #063970;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sevice-card {
+    background-color: #e1eff0;
+    border-radius: 10px;
+
+}
+.sevice-card:hover{
+    background-color: rgb(116, 250, 255);
+    transition: 0.5s ease-in-out;
+}
+.service-img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.service-name {
+    color: #154c79;
+    font-family: "Playfair display";
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.service-descr {
+    margin-left: 10px;
+    color: #21130d;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.service-list {
+    color: #21130d;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+
+.testimonial-heading {
+    color: #044378;
+    font-size: 26px;
+    font-family: "Roboto";
+    font-weight: 600;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+
+.testimonial-card {
+    background-color: #e6e5e1;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.testimonial-review {
+    color: #2f3a41;
+    font-family: "Roboto";
+    font-weight: 800;
+}
+
+.stars {
+    color: #FFD700;
+    /* Gold color */
+    font-size: 20px;
+}
+
+.reviewer-name {
+    color: #044378;
+    font-size: 20px;
+    margin-left: 65px;
+}
+
+.line {
+    color: black;
+    border-width: 2px;
+}
+
+#contact-section {
+    background-color: #155e79be;
+    height: 100%;
+}
+
+.input-card {
+    background-image: linear-gradient(#00ffc8, #00f7ff);
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.contact-list {
+    color: #ffffff;
+}
+
+.achor {
+    color: #ffffff;
+}
+
+.contact-name {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+footer {
+    background-color: #08f23a;
+    height: 10vh;
+    padding-top: 20px;
+}
+
+.footer {
+    margin-top: auto;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.c-icon {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 25px;
+}
